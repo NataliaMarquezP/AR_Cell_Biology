@@ -1,4 +1,4 @@
-#  AR Cell Biology
+# 🧬 AR Cell Biology
 
 Aplicación educativa desarrollada en **Unity** para la visualización e interacción con estructuras celulares mediante dispositivos móviles. El proyecto permite explorar distintas células y organelos utilizando una interfaz sencilla basada en botones.
 
@@ -6,7 +6,7 @@ Aplicación educativa desarrollada en **Unity** para la visualización e interac
 
 AR Cell Biology es una aplicación diseñada para apoyar el aprendizaje de biología celular mediante la representación visual de estructuras celulares y organelos. El usuario puede seleccionar diferentes componentes biológicos y visualizar cada uno de ellos de manera individual.
 
-##  Objetivos
+## 🎯 Objetivos
 
 - Visualizar estructuras celulares en un entorno interactivo.
 - Facilitar el aprendizaje de biología celular.
@@ -48,7 +48,7 @@ Assets
 - Aparato de Golgi
 - Retículo Endoplasmático
 
-##  Funcionalidades
+## 🎮 Funcionalidades
 
 - Selección mediante botones interactivos.
 - Visualización individual de cada estructura biológica.
@@ -69,13 +69,13 @@ La aplicación incorpora:
 
 Cada botón activa la visualización del elemento seleccionado y oculta los demás componentes.
 
-##  Plataforma Objetivo
+## 📱 Plataforma Objetivo
 
 - Android
 
 Probado en dispositivo Samsung Galaxy S22 Ultra.
 
-##  Instalación
+## 🚀Instalación
 
 1. Clonar el repositorio:
 
@@ -99,7 +99,7 @@ git clone https://github.com/NataliaMarquezP/AR_Cell_Biology.git
 Build And Run
 ```
 
-##  Pruebas Realizadas
+## 🧪 Pruebas Realizadas
 
 - Prueba de visualización de células.
 - Prueba de visualización de organelos.
@@ -109,7 +109,7 @@ Build And Run
 - Pruebas de navegación e interacción en dispositivo móvil.
 
 
-##  Resultados Obtenidos
+## ✅ Resultados Obtenidos
 
 - Aplicación funcional.
 - Interfaz interactiva operativa.
@@ -117,10 +117,10 @@ Build And Run
 - Implementación correcta de scripts de control.
 - Ejecución exitosa en dispositivo móvil Android.
 
-##  Autor
+## 📚 Autor
 
 Proyecto desarrollado como actividad evaluativa para la asignatura Taller de Programación de videojuegos.
 
-##  Licencia
+## 📄 Licencia
 
 Proyecto con fines educativos y académicos.
